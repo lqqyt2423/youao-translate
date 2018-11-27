@@ -1,7 +1,7 @@
 {
   "name": "youdao-translate",
   "version": "1.0.0",
-  "description": "",
+  "description": "Youdao Translate Nodejs Api",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
@@ -11,5 +11,14 @@
   "dependencies": {
     "request": "^2.88.0",
     "request-promise": "^4.2.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lqqyt2423/youao-translate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lqqyt2423/youao-translate/issues"
+  },
+  "homepage": "https://github.com/lqqyt2423/youao-translate#readme"
 }
