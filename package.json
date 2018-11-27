@@ -1,5 +1,5 @@
 {
-  "name": "youdao-translate",
+  "name": "@liqiqiang/youdao-translate",
   "version": "1.0.0",
   "description": "Youdao Translate Nodejs Api",
   "main": "index.js",
